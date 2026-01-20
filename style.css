@@ -1,0 +1,42 @@
+body{
+    background-color: rgb(233, 237, 224);
+}
+
+ header{
+    font-size: small;
+ }
+
+ .centerimg{
+    border-radius: 10%;
+    border: 2px solid rgb(181, 109, 14);
+ }
+
+ p{
+   color: brown;
+   margin: 10;
+   padding: 20;
+  
+ }
+
+ li{
+    color: rgb(112, 116, 124);
+ }
+
+ footer{
+    color: crimson;
+ }
+
+ .block h3{
+    /* display: inline-block; */
+    border-radius: 10%;
+    border: 3px solid black;
+    margin-left: 0;
+    margin-right: 30;
+    width: fit-content;
+ }
+
+ h4{
+    border-radius: 10%;
+    border: 3px solid black;
+    width: fit-content;
+ }
